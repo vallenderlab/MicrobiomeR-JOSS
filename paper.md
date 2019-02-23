@@ -1,29 +1,25 @@
 ---
-title: 'MicrobiomeR:  An R Package for Simplified and Standardized Microbiome Analysis
-  Workflows'
-authors:
-- affiliation: 1
-  name: Robert A Gilmore
-  orcid: null
-- affiliation: 1
-  name: Shaurita D Hutchins
-  orcid: null
-- affiliation: 1
-  name: Xiao Zhang
-  orcid: null
-- affiliation: 1
-  name: Eric J Vallender
-  orcid: null
-date: "22 February 2019"
-output: pdf_document
-bibliography: paper.bib
+title: 'MicrobiomeR:  An R Package for Simplified and Standardized Microbiome Analysis Workflows'
 tags:
-- R
-- microbiome
+  - R
+  - microbiome
+authors:
+  - name: Robert A Gilmore
+    orcid: null
+    affiliation: 1
+  - name: Shaurita D Hutchins
+    orcid: null
+    affiliation: 1
+  - name: Xiao Zhang
+    orcid: null
+  - name: Eric J Vallender
+    orcid: null
+    affiliation: 1
 affiliations:
-- index: 1
-  name: Department of Psychiatry and Human Behavior, University of Mississippi Medical
-    Center
+  - name: Department of Psychiatry and Human Behavior, University of Mississippi Medical Center
+    index: 1
+date: "22 February 2019"
+bibliography: paper.bib
 ---
 
 # Summary
