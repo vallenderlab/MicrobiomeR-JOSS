@@ -125,7 +125,7 @@ Oh, and support from Kathryn Johnston during the genesis of this project.
 
 Example `paper.bib` file:
 
-```
+```markdown
 @article{Pearson:2017,
   	Adsnote = {Provided by the SAO/NASA Astrophysics Data System},
   	Adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170304627P},
